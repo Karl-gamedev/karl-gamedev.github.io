@@ -10,7 +10,6 @@ header {
     justify-content: space-between;
     align-items: baseline;
     padding: 1.5em 2em;
-    border-bottom: 2px solid #f8961e;
 
 }
 
@@ -29,10 +28,39 @@ h1 {
     font-weight: 600;
     text-transform: uppercase;
     padding-top: 0;
+    font-family: 'Bitter', serif;
 }
 
 h2 {
     padding-top: 0;
     font-weight: 500;
     font-size: 1.4em;
+}
+
+.text-centre {
+    text-align: center;
+}
+
+.text-orange {
+    color: #f8961e;
+}
+
+.subheading {
+    font-weight: 300;
+    font-size: 1.1em;
+}
+
+.section-container {
+    width: 70%;
+    padding: 2em;
+    margin: 0 auto;
+}
+
+img {
+    width: 60%;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
 }
