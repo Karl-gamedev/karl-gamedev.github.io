@@ -116,8 +116,7 @@ img {
 }
 
 .icon-image{
-    width: 48px;
-    object-fit: cover;
+    width: 10%;
     display: inline-block;
     vertical-align: top;
 }
