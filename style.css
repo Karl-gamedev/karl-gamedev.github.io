@@ -30,7 +30,7 @@ header a {
 }
 
 header a:hover {
-    color: #f8961e;
+    color: #f57656;
 
 }
 
@@ -88,7 +88,7 @@ p {
 }
 
 .text-orange {
-    color: #f8961e;
+    color: #f57656;
 }
 
 .text-higlight {
@@ -145,7 +145,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #f8961e;
+    color: #f57656;
 }
 
 .two-column {
@@ -162,15 +162,16 @@ footer a:hover {
 }
 
 .btn {
-    background-color: DodgerBlue;
+    background-color: #80dd91;
     border: none;
     color: white;
     padding: 12px 16px;
     font-size: 16px;
     cursor: pointer;
+    border-radius: 30px;
   }
 
 /* Darker background on mouse-over */
 .btn:hover {
-    background-color: RoyalBlue;
+    background-color: #40bb75;
   }
